@@ -1,3 +1,16 @@
+# Naive Bayes Classifier
+
+Bayes Theorem
+P(A|B)-  how often A happens given that B happens= P(B|A)P(A)/P(B)
+P(B|A)-  how often B happens given that A happens
+
+> Naive Bayes classifier calculates the probabilities for every factor.This classifier assumes the features (in this case we had words as input) are independent. Hence the word naive.
+
+Sklearn Naive Bayes provides three alternatives for model training:
+1. Gaussian- it assumes that features follow a normal distribution
+2. Multinomial- used for discrete counts (eg: number of times outcome number x_i is observed over the n trials)
+3. Bernoulli- useful if your feature vectors are binary (i.e. zeros and ones), text classification with ‘bag of words’ model where 1s are word that occur in the document & 0s are words that do not.
+ 
 # Support Vector Machines(Classifier)
 
 *Separation of classes*
