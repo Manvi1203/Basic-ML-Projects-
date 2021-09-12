@@ -61,3 +61,7 @@ Sklearn Naive Bayes provides three alternatives for model training:
     K(x,xi) = exp(-gamma * sum((x – xi^2))
 
     (gamma must be specified, a good value of gamma=0.1, must be between 0 and 1)
+    
+ > SVC takes more training time than the Naive Bayes but the prediction is faster. However, it totally depends on scenario and data set which one performs best.
+ 
+ 
