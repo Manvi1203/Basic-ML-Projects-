@@ -1,3 +1,5 @@
+This repository consists of code samples of some of the ML projects I have done while learning and exploring this domain.
+
 # Naive Bayes Classifier
 
 Bayes Theorem
