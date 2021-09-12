@@ -1,5 +1,17 @@
 This repository consists of code samples of some of the ML projects I have done while learning and exploring this domain.
 
+![image](https://user-images.githubusercontent.com/77841499/132994175-39edfec2-aa06-4b94-9c80-7e1289a282ff.png)
+
+
+Machine Learning
+>Machine Learning (or ML) is an area of Artificial Intelligence (AI) that is a set of statistical techniques for problem solving.These techniques can be applied to a wide variety of problems which are not limited to - vision based research, fraud detection, price prediction, and even NLP.
+
+Natural Language Processing
+> Natural Language Processing (or NLP) is an area that is a confluence of Artificial Intelligence and Linguistics.NLP has many tasks such as Text Generation, Text Classification, Machine Translation, Speech Recognition, Sentiment Analysis, etc. 
+
+Data Learning
+>Deep Learning (which includes Recurrent Neural Networks, Convolution Neural Networks and others) is a type of Machine Learning approach. It is an extension of Neural Networks.It can also be used for vision based classification and can be used in NLP.
+
 # Flow Chart of everthing ML
 
 ![ml flowchart](https://user-images.githubusercontent.com/77841499/132993807-b0a69d7a-e11f-4050-b1a5-7a7c41ec1a64.jpeg)
