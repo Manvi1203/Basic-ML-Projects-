@@ -1,5 +1,9 @@
 This repository consists of code samples of some of the ML projects I have done while learning and exploring this domain.
 
+# Flow Chart of everthing ML
+
+![ml flowchart](https://user-images.githubusercontent.com/77841499/132993807-b0a69d7a-e11f-4050-b1a5-7a7c41ec1a64.jpeg)
+
 # Naive Bayes Classifier
 
 Bayes Theorem
