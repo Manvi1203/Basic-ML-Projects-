@@ -1,4 +1,5 @@
-This repository consists of code samples of some of the ML projects I have done while learning and exploring this domain.
+This repository consists of code sample of SMS Spam Classifier
+Data Set Link: https://archive.ics.uci.edu/ml/datasets/SMS+Spam+Collection
 
 ![image](https://user-images.githubusercontent.com/77841499/132994175-39edfec2-aa06-4b94-9c80-7e1289a282ff.png)
 
