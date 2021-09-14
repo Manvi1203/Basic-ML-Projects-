@@ -1,4 +1,4 @@
-This repository consists of code sample of SMS Spam Classifier
+This repository consists of code sample of SMS Spam Classifier and a brief overview of ML algorithms.
 
 Data Set Link: https://archive.ics.uci.edu/ml/datasets/SMS+Spam+Collection
 
